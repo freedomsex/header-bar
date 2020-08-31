@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/freedomsex/header-bar.git"
   },
-  "peerDependencies": { 
+  "peerDependencies": {
     "@freedomsex/styles": "0.1.2"
   },
   "keywords": [

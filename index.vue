@@ -15,7 +15,7 @@ export default {
   width: 100%;
   color: @dark;
   background-color: @white;
-  box-shadow: 0 -0px 5px 0 rgba(0, 0, 0, 0.3);
+  box-shadow: 0 -0px 2px 0 rgba(0, 0, 0, 0.3);
 
   &.glass {
     color: @dark;
@@ -49,10 +49,7 @@ export default {
   &__navbar {
     display: flex;
     align-items: stretch;
-
-    // .header-bar__button:last-child {
-    //   padding-right: 0px;
-    // }
+    overflow: hidden;
   }
 
   &__icon {
@@ -89,11 +86,9 @@ export default {
     font-size: 16px;
     padding-top: 2px;
     margin: 0px 5px;
-    position: relative;
-    // top: 1px;
+    position: relative; 
     overflow: hidden;
-    white-space: nowrap;
-    // font-weight: bold;
+    white-space: nowrap; 
 
     &.limit {
       max-width: 150px;
