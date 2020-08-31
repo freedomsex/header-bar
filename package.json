@@ -1,6 +1,6 @@
 {
   "name": "header-bar",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Nav bar vue component",
   "main": "index.vue",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/freedomsex/header-bar.git"
   },
-  "peerDependencies": {
+  "dependencies": {
     "@freedomsex/styles": "0.1.2"
   },
   "keywords": [
