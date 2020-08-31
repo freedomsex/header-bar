@@ -1,6 +1,6 @@
 {
-  "name": "header-bar",
-  "version": "1.0.3",
+  "name": "@freedomsex/header-bar",
+  "version": "1.0.4",
   "description": "Nav bar vue component",
   "main": "index.vue",
   "scripts": {
