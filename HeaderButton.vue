@@ -21,7 +21,7 @@ export default {
     font-size: 0;
     display: flex;
     align-items: center;
-    padding: 0px 5px;
+    padding: 0px 10px;
     overflow: hidden;
     white-space: nowrap;
     border-radius: 3px;
