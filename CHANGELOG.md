@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/freedomsex/header-bar/compare/v1.2.0...v1.2.1) (2021-12-23)
+
+
+### Bug Fixes
+
+* main ([ae94486](https://github.com/freedomsex/header-bar/commit/ae94486c5eee7e0000ce58550b730d0a91f82595))
+
 ## [1.2.0](https://github.com/freedomsex/header-bar/compare/v1.1.1...v1.2.0) (2021-08-14)
 
 
